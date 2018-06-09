@@ -36,19 +36,19 @@ Github : https://github.com/magi82
 
 ## 오픈소스
 
-##### RxViewBinder
+### RxViewBinder
 - RxSwift를 이용한 단방향 아키텍처 프레임워크 라이브러리
 - https://github.com/magi82/RxViewBinder
 
-##### MGRelativeKit
+### MGRelativeKit
 - 퍼포먼스 향상을 위한 오토레이아웃이 아닌<br>프레임 기반의 관계형 레이아웃 킷 라이브러리
 - https://github.com/magi82/MGRelativeKit
 
-##### MGStarRatingView
+### MGStarRatingView
 - 평점(별점)을 쉽고 간단하게 구현할수 있는 컨텍스트 기반 라이브러리
 - https://github.com/magi82/MGStarRatingView
 
-##### MGGridView
+### MGGridView
 - 2중 컬렉션뷰를 이용한 가로세로 확장형 그리드뷰 라이브러리
 - https://github.com/magi82/MGGridView
 
