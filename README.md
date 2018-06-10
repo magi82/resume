@@ -133,17 +133,15 @@ Github : https://github.com/magi82
 
 - Swift & Objective-C
 - RxSwift
-- Architecture Framework (MVP, MVVM, ReactorKit, RxViewBinder)
-- Restful API Network (alamofire, moya)
-- image downloading and caching (SDWebImage, Kingfisher)
-- Autolayout(Storyboard)
-- Autolayout(code base)
+- Architecture Framework(MVP, MVVM, ReactorKit, RxViewBinder)
+- Restful API Network(alamofire, moya)
+- image downloading and caching(SDWebImage, Kingfisher)
+- Autolayout(Storyboard & Code Base)
 - SnapKit
-- frame base UX/UI
-- SnapKit
+- frame base UX/UI(MGRelativeKit)
 - WKWebView
 - Sqlite
 - firebase
 - Fabric Crashlytics
-- naver SDK (map, login)
-- kakao SDK (Navi, login, search api)
+- naver SDK(map, login)
+- kakao SDK(Navi, login, search api)
