@@ -6,6 +6,8 @@ Facebook : https://www.facebook.com/bkhwang82
 
 Github : https://github.com/magi82
 
+<br>
+
 ## 경력사항
 
 ### 앱튜브
@@ -43,6 +45,7 @@ Github : https://github.com/magi82
 - 기간 : 2017.09 ~ 현재
 - 내용 : iOS 개발 및 서비스
 - 사용기술 : iOS, Swift, RxSwift, SnapKit, MGRelativeKit
+- AppStore : https://itunes.apple.com/kr/app/id947725771
 
 ### 모시러
 - 소개 : 위치 기반의 시간제 차량 수행 기사 서비스
@@ -50,6 +53,7 @@ Github : https://github.com/magi82
 - 기간 : 2018.01 ~ 현재
 - 내용 : iOS 개발 및 서비스
 - 사용기술 : iOS, Swift, RxSwift, SnapKit
+- AppStore : https://itunes.apple.com/kr/app/id1366011185
 
 ### 아파요
 - 소개 : 자가 예상 진단을 토대로 해당 증상에 대한 병원을 찾아주는 어플리케이션
@@ -57,6 +61,8 @@ Github : https://github.com/magi82
 - 기간 : 2016.06 ~ 2017.07
 - 내용 : iOS, Android 앱 개발
 - 사용기술 : iOS, Swift, AOS, Java, PHP
+- AppStore : https://goo.gl/bSsWEc
+- PlayStore : https://goo.gl/zuvfPm
 
 ### 라그나로크 : the war of emperium
 - 소개 : 라그나로크 세계관을 배경으로한 핵앤슬래시 장르 모바일 게임
