@@ -76,6 +76,7 @@ Github : https://github.com/magi82
 - 기간 : 2016.01 ~ 2016.07
 - 내용 : 게임 컨텐츠 및 iOS 파트 개발
 - 사용기술 : 언리얼3 엔진, C++, Objective-C
+- https://www.youtube.com/watch?v=-ugNJIUxo7E
 
 ### 전투의 신
 - 소개 : LOL 스타일의 MOBA 장르 모바일 게임
@@ -83,6 +84,7 @@ Github : https://github.com/magi82
 - 기간 : 2013.05 ~ 2015.12
 - 내용 : 게임 컨텐츠 및 iOS 파트 개발
 - 사용기술 : 언리얼3 엔진, C++, Objective-C
+- https://www.youtube.com/watch?v=moQWkOwT9po
 
 ### 레퀴엠 온라인
 - 소개 : 하드코어 장르의 온라인 MMORPG 게임
