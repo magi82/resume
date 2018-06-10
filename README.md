@@ -126,3 +126,24 @@ Github : https://github.com/magi82
 ### MGGridView
 - 2중 컬렉션뷰를 이용한 가로세로 확장형 그리드뷰 라이브러리
 - https://github.com/magi82/MGGridView
+
+<br>
+
+## 보유기술 및 사용가능 라이브러리
+
+- Swift & Objective-C
+- RxSwift
+- Architecture Framework (MVP, MVVM, ReactorKit, RxViewBinder)
+- Restful API Network (alamofire, moya)
+- image downloading and caching (SDWebImage, Kingfisher)
+- Autolayout(Storyboard)
+- Autolayout(code base)
+- SnapKit
+- frame base UX/UI
+- SnapKit
+- WKWebView
+- Sqlite
+- firebase
+- Fabric Crashlytics
+- naver SDK (map, login)
+- kakao SDK (Navi, login, search api)
