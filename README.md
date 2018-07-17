@@ -11,7 +11,7 @@ Github : https://github.com/magi82
 ## 경력사항
 
 ### 앱튜브
-- 기간 : 2017.08 ~ 현재
+- 기간 : 2017.08 ~ 2018.07
 - 직급 : 과장
 - 내용 : iOS 개발 및 서비스
 
@@ -42,7 +42,7 @@ Github : https://github.com/magi82
 ### 하이타이
 - 소개 : 위치 기반의 태국 마사지샵 검색 서비스
 - 소속 : 앱튜브
-- 기간 : 2017.09 ~ 현재
+- 기간 : 2017.09 ~ 2018.07
 - 내용 : iOS 개발 및 서비스
 - 사용기술 : iOS, Swift, RxSwift, SnapKit, MGRelativeKit
 - AppStore : https://itunes.apple.com/kr/app/id947725771
