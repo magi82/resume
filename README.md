@@ -44,7 +44,7 @@ Github : https://github.com/magi82
 
 # 프로젝트
 
-### 하이타이
+## 하이타이
 - 소개 : 위치 기반의 태국 마사지샵 검색 서비스
 - 소속 : 앱튜브
 - 기간 : 2017.09 ~ 2018.07
@@ -54,7 +54,7 @@ Github : https://github.com/magi82
 
 <img src="images/hitai-1.jpg" width="160"/> <img src="images/hitai-2.jpg" width="160"/> <img src="images/hitai-3.jpg" width="160"/> <img src="images/hitai-4.jpg" width="160"/> <img src="images/hitai-5.jpg" width="160"/>
 
-### 모시러
+## 모시러
 - 소개 : 위치 기반의 시간제 차량 수행 기사 서비스
 - 소속 : 앱튜브
 - 기간 : 2018.01 ~ 현재
@@ -64,7 +64,7 @@ Github : https://github.com/magi82
 
 <img src="images/mosiler-1.jpg" width="160"/> <img src="images/mosiler-2.jpg" width="160"/> <img src="images/mosiler-3.jpg" width="160"/> <img src="images/mosiler-4.jpg" width="160"/>
 
-### 아파요
+## 아파요
 - 소개 : 자가 예상 진단을 토대로 해당 증상에 대한 병원을 찾아주는 어플리케이션
 - 소속 : 아파요 닥터
 - 기간 : 2016.06 ~ 2017.07
@@ -75,7 +75,7 @@ Github : https://github.com/magi82
 
 <img src="images/apayo-1.jpg" width="160"/> <img src="images/apayo-2.jpg" width="160"/> <img src="images/apayo-3.jpg" width="160"/> <img src="images/apayo-4.jpg" width="160"/> <img src="images/apayo-5.jpg" width="160"/>
 
-### 라그나로크 : the war of emperium
+## 라그나로크 : the war of emperium
 - 소개 : 라그나로크 세계관을 배경으로한 핵앤슬래시 장르 모바일 게임
 - 소속 : 그라비티
 - 기간 : 2016.01 ~ 2016.07
@@ -83,7 +83,7 @@ Github : https://github.com/magi82
 - 사용기술 : 언리얼3 엔진, C++, Objective-C
 - https://www.youtube.com/watch?v=-ugNJIUxo7E
 
-### 전투의 신
+## 전투의 신
 - 소개 : LOL 스타일의 MOBA 장르 모바일 게임
 - 소속 : 그라비티
 - 기간 : 2013.05 ~ 2015.12
@@ -91,21 +91,21 @@ Github : https://github.com/magi82
 - 사용기술 : 언리얼3 엔진, C++, Objective-C
 - https://www.youtube.com/watch?v=moQWkOwT9po
 
-### 레퀴엠 온라인
+## 레퀴엠 온라인
 - 소개 : 하드코어 장르의 온라인 MMORPG 게임
 - 소속 : 그라비티
 - 기간 : 2009.02 ~ 2013.05
 - 내용 : 게임 컨텐츠 및 해외 로컬라이징 작업
 - 사용기술 : 게임브리오 엔진, C++
 
-### 묵향 온라인 (타이탄 온라인 시즌2)
+## 묵향 온라인 (타이탄 온라인 시즌2)
 - 소개 : 소설 묵향을 배경으로 제작된 무협 온라인 MMORPG 게임
 - 소속 : 이야소프트
 - 기간 : 2006.11 ~ 2009.01
 - 내용 : 게임 컨텐츠 개발
 - 사용기술 : DirectX, C++
 
-### 원더킹 온라인
+## 원더킹 온라인
 - 소개 : 횡스크롤 2D 온라인 MMORPG 게임
 - 소속 : 류엔소프트
 - 기간 : 2005.05 ~ 2006.06
@@ -114,27 +114,27 @@ Github : https://github.com/magi82
 
 <br>
 
-## 오픈소스
+# 오픈소스
 
-### RxViewBinder
+## RxViewBinder
 - RxSwift를 이용한 단방향 아키텍처 프레임워크 라이브러리
 - https://github.com/magi82/RxViewBinder
 
-### MGRelativeKit
+## MGRelativeKit
 - 퍼포먼스 향상을 위한 오토레이아웃이 아닌<br>프레임 기반의 관계형 레이아웃 킷 라이브러리
 - https://github.com/magi82/MGRelativeKit
 
-### MGStarRatingView
+## MGStarRatingView
 - 평점(별점)을 쉽고 간단하게 구현할수 있는 컨텍스트 기반 라이브러리
 - https://github.com/magi82/MGStarRatingView
 
-### MGGridView
+## MGGridView
 - 2중 컬렉션뷰를 이용한 가로세로 확장형 그리드뷰 라이브러리
 - https://github.com/magi82/MGGridView
 
 <br>
 
-## 보유기술 및 사용가능 라이브러리
+# 보유기술 및 사용가능 라이브러리
 
 - Swift & Objective-C
 - RxSwift
