@@ -134,19 +134,19 @@ Github : https://github.com/magi82
 
 <br>
 
-# 보유기술 및 사용가능 라이브러리
+# 보유기술
 
 - Swift & Objective-C
+- Clean Architecture(VIP, viper, RIBs)
+- presentation pattern(MVP, MVVM, MVI, ReactorKit, RxViewBinder)
+- TDD
 - RxSwift
-- Architecture Framework(MVP, MVVM, ReactorKit, RxViewBinder)
-- Restful API Network(alamofire, moya)
-- image downloading and caching(SDWebImage, Kingfisher)
+- Texture
 - Autolayout(Storyboard & Code Base)
-- SnapKit
-- frame base UX/UI(MGRelativeKit)
 - WKWebView
-- Sqlite
-- firebase
-- Fabric Crashlytics
-- naver SDK(map, login)
-- kakao SDK(Navi, login, search api)
+- CoreData, Sqlite
+- CoreML
+- Firebase
+- Crashlytics
+- tuist
+- CI/CD (github actions, bitrise)
