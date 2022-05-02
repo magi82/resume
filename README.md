@@ -12,7 +12,7 @@ Github : https://github.com/magi82
 
 ## 당근마켓
 - 기간 : 2018.07 ~ 현재
-- 직급 : iOS engineer
+- 직급 : iOS chapter lead
 - 내용 : 당근마켓 iOS 개발 및 서비스
 
 ## 앱튜브
